@@ -71,7 +71,11 @@ body{
 }
 
 h2{
-font-size: 200%;
+font-size: 31px;
+}
+.puhelin
+{
+    color: red;
 }
 .auto {
     max-width: 90%;
